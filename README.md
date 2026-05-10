@@ -1,6 +1,6 @@
 # Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting
 
-This repository contains the official source code and experiments for the paper "Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting".
+This repository contains the official source code and experiments for the paper "Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting (ICML 2026)".
 
 
 ## Abstract
